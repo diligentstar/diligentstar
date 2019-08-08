@@ -1,6 +1,6 @@
 <?php
 # Includes the autoloader for libraries installed with composer
-require __DIR__ . '/vendor/autoload.php';
+require __DIR__ . 'D:/github_demo/diligentstar/autoload.php';
 
 # Imports the Google Cloud client library
 use Google\Cloud\Speech\V1\SpeechClient;
